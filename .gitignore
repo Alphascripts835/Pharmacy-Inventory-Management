@@ -1,0 +1,9 @@
+# build output
+pims
+pims.exe
+*.o
+
+# runtime data (created when the program runs)
+*.dat
+*.tmp
+inventory_report.txt
